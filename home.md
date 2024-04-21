@@ -2,7 +2,7 @@
 title: Bienvenue
 description: 
 published: true
-date: 2024-04-21T09:58:27.124Z
+date: 2024-04-21T15:52:00.760Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T14:44:55.258Z
@@ -12,12 +12,15 @@ dateCreated: 2024-04-14T14:44:55.258Z
 > Sorry for non-french speakers, most of the documentation is in french. Maybe in the future I try to find a nice way to translate... In the meanwhile, I'd suggest that you translate it manually via [Deepl](https://www.deepl.com/translator)
 {.is-warning}
 
+Bonjour! Soyez les bienvenus sur ma documentation.
 
-Bonjour! Soyez les bienvenus sur ma documentation. Vous y trouverez, à terme, des notes techniques mais également des explications sur les différents services proposés et la [liste des changements](/changelog)
+Vous y trouverez, à terme, des notes techniques mais également des explications sur les différents services proposés et la [liste des changements](/changelog). 
 
 ## Mes services
 
 Vous pouvez obtenir un accès en m'envoyant un petit mail à cretch84@gmail.com. Pour le moment, il n'y a pas d'identifiant unifié pour tous les services, alors vous devrez peut-être jongler entre plusieurs identifiants malheureusement.
+
+Je ne détaille volontairement pas tous les éléments, pour garder la documentaiton simple.
 
 ### Jellyfin + Jellyseerr
 [Jellyfin](https://jellyfin.ktgn.net/) est l'application permettant de visionner films, séries, livres et musique.
