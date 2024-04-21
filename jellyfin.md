@@ -2,7 +2,7 @@
 title: Jellyfin
 description: 
 published: true
-date: 2024-04-21T15:17:59.454Z
+date: 2024-04-21T15:26:17.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:33.113Z
@@ -22,9 +22,10 @@ Selon la configuration de la TV, vous pouvez aussi "caster" Jellyfin. Sur ma vie
 
 ## Connexion
 
-On ne peut faire plus simple.  Veuillez entrer l'utilisateur et le mot de passe. L'option de connexion rapide est réservée aux connexions pour, par exemple, les apps des TV et consoles, pour s'éviter la corvée des mots de passe.
+On ne peut faire plus simple.  Veuillez entrer l'utilisateur et le mot de passe.
+L'option de connexion rapide est réservée aux connexions pour, par exemple, les apps des TV et consoles, pour s'éviter la corvée des mots de passe.
 
-![login.png](/jellyfin/login.png)
+![login.png](/jellyfin/login.png){.align-center}
 
 ## Accueil
 
@@ -34,7 +35,19 @@ On ne peut faire plus simple.  Veuillez entrer l'utilisateur et le mot de passe.
 4. Options utilisateur
 5. Navigation principale
 
-  
-  
+![accueil.png](/jellyfin/accueil.png){.align-center}
 
-![accueil.png](/jellyfin/accueil.png)
+### Options utilisateur
+
+Vous pourrez personnaliser ici votre expérience... 
+
+- Profil  (pour changer de mot de passe)
+- Connexion rapide (à utiliser quand vous voudrez vous connecter par exemple sur une TV)
+- Affichage (pour modifier certaines options graphiques, la langue de l'interface, l'heure, etc...)
+- Accueil (pour personnaliser l'écran d'accueil, changer les ordres, supprimer certaines sections, etc...)
+- Lecture (pour changer les paramètres de qualité des vidéos, la langue favorite,. etc...)
+- Sous-titres (Préférences des sous-titres)
+- Contrôle (pour activer la navigation à la manette)
+
+### Navigation principale
+
