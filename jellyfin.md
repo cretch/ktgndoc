@@ -2,7 +2,7 @@
 title: Jellyfin
 description: 
 published: true
-date: 2024-04-21T15:55:47.239Z
+date: 2024-04-21T16:00:20.126Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:33.113Z
@@ -70,7 +70,7 @@ Si vous cliquez sur Play, le titre va se charger en mémoire, ce qui peut être 
 
 La coche est pour noter que vous avez déjà lu le leivre, le coeur vous permet de le mettre dans une liste de favoris.
 
-Si vous cliquez sur le titre, vous entrerez sur la fiche du livre. Cela n'a d'intérêt que si vous souhaitez télécharger une copie locale
+Si vous cliquez sur le titre, vous entrerez sur la fiche du livre. Cela n'a d'intérêt que si vous souhaitez télécharger une copie locale (via la deuxième icône ⬇️)
 
 ![livre2.png](/jellyfin/livre2.png){.align-center}
 
@@ -88,7 +88,10 @@ Sur la droite de l'écran, vous pouvez n'afficher que les films d'une certaine l
 
 ##### Filtres et tri
 
-
+- Flèches, pour naviger entre les pages
+- Affichage, pour changer la présentation de la liste
+- Tri
+- Filtres
 
 ![movies2.png](/jellyfin/movies2.png){.align-center}
 
