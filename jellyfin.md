@@ -2,7 +2,7 @@
 title: Jellyfin
 description: 
 published: true
-date: 2024-04-21T09:58:28.330Z
+date: 2024-04-21T15:17:59.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:33.113Z
@@ -22,3 +22,19 @@ Selon la configuration de la TV, vous pouvez aussi "caster" Jellyfin. Sur ma vie
 
 ## Connexion
 
+On ne peut faire plus simple.  Veuillez entrer l'utilisateur et le mot de passe. L'option de connexion rapide est réservée aux connexions pour, par exemple, les apps des TV et consoles, pour s'éviter la corvée des mots de passe.
+
+![login.png](/jellyfin/login.png)
+
+## Accueil
+
+1. Menu latéral (raccourci vers les bibliothèques et les paramètres utilisateur)
+2. "Caster" vers un autre écran compatible. Utile si vous naviguez via le téléphone mais souhaitez regarder sur votre téléviseur
+3. Rechercher un titre
+4. Options utilisateur
+5. Navigation principale
+
+  
+  
+
+![accueil.png](/jellyfin/accueil.png)
