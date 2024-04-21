@@ -1,0 +1,8 @@
+{
+  "accentColor": "#911818",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tasks"
+  ],
+  "baseFontSize": 18
+}
