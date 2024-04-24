@@ -2,7 +2,7 @@
 title: Changelog
 description: 
 published: true
-date: 2024-04-21T14:58:29.365Z
+date: 2024-04-24T17:32:29.271Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:12.312Z
@@ -16,6 +16,7 @@ dateCreated: 2024-04-14T15:04:12.312Z
 - Ecrire la documentation
 - Instances multi-langues
 - save to USB
+- Notifications
 ## Peut-être, quelque part dans le futur
 - Authentification unifiée
 - ~~Améliorer le transcoding~~ Nécessite un GPU dédié
