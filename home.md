@@ -2,13 +2,13 @@
 title: Bienvenue
 description: 
 published: true
-date: 2024-04-21T15:55:49.345Z
+date: 2024-04-25T17:36:56.874Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T14:44:55.258Z
 ---
 
-# Bienvenue sur Katagena Networks
+# Welcome on Katagena Networks
 > Sorry for non-french speakers, most of the documentation is in french. Maybe in the future I try to find a nice way to translate... In the meanwhile, I'd suggest that you translate it manually via [Deepl](https://www.deepl.com/translator)
 {.is-warning}
 
