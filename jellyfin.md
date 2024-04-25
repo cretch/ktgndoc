@@ -2,38 +2,38 @@
 title: Jellyfin
 description: 
 published: true
-date: 2024-04-22T19:23:43.702Z
+date: 2024-04-25T19:04:15.832Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:33.113Z
 ---
 
 # Jellyfin	
-Jellyfin est un centre de lecture multimédia. Vous devez disposer d'un identifiant crée pour vous (il est partagé avec [Jellyseerr](/jellyseerr) ).
+Jellyfin is a mediacenetr, that you can access after you're received credentials from me (shared with [Jellyseerr](/jellyseerr) ).
 
-Il est accessible de plusieurs manières:
-- Via le web, en cliquant sur [ce lien](https://jellyfin.ktgn.net)
-- Via une app ([Android](/https://play.google.com/store/apps/details?id=org.jellyfin.mobile), [Apple](/https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8) ou les [TV Android](/https://play.google.com/store/apps/details?id=org.jellyfin.androidtv))
+It's available through various means
+- On the web, by clicking [on this link](https://jellyfin.ktgn.net)
+- Via an app ([Android](/https://play.google.com/store/apps/details?id=org.jellyfin.mobile), [Apple](/https://apps.apple.com/us/app/jellyfin-mobile/id1480192618?mt=8) or [TV Android](/https://play.google.com/store/apps/details?id=org.jellyfin.androidtv))
 
-Selon la configuration de la TV, vous pouvez aussi "caster" Jellyfin. Sur ma vieille Smart TV, j'ai du acquérir un Google Chromecast.
+According to your TV specs, you may be able to "cast" the videos to your TV from your phone. 
 
-> La documentation est rédigée en s'appuyant sur la version web. Les grands principes sont identiques sur les applications
+> This documentation is taking the web version as example. On other means, it should be quite the same.
 {.is-info}
 
 ## Connexion
 
-On ne peut faire plus simple.  Veuillez entrer l'utilisateur et le mot de passe.
-L'option de connexion rapide est réservée aux connexions pour, par exemple, les apps des TV et consoles, pour s'éviter la corvée des mots de passe.
+Can't be simpler : just enter your username and password. Quick conenct is there for special hardware like you TV, or gaming console, on which you don't have a proper keyboard.
+
 
 ![login.png](/jellyfin/login.png){.align-center}
 
-## Accueil
+## Home
 
-1. Menu latéral (raccourci vers les bibliothèques et les paramètres utilisateur)
-2. "Caster" vers un autre écran compatible. Utile si vous naviguez via le téléphone mais souhaitez regarder sur votre téléviseur
-3. Rechercher un titre
-4. Options utilisateur
-5. Navigation principale
+1. Sidebar (Shortcuts to libraries and user settings)
+2. "Cast" to another compatible screen. Handy if you want to browse the mediacenter on your phone but see on the TV.
+3. Search for a title
+4. User settings
+5. Main part
 
 ![accueil.png](/jellyfin/accueil.png){.align-center}
 
