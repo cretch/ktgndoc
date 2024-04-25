@@ -2,7 +2,7 @@
 title: Changelog
 description: 
 published: true
-date: 2024-04-24T17:32:29.271Z
+date: 2024-04-25T16:11:05.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:12.312Z
@@ -14,7 +14,7 @@ dateCreated: 2024-04-14T15:04:12.312Z
 
 ## Projets en cours
 - Ecrire la documentation
-- Instances multi-langues
+
 - save to USB
 - Notifications
 ## Peut-être, quelque part dans le futur
@@ -27,3 +27,4 @@ dateCreated: 2024-04-14T15:04:12.312Z
 - Medias avec Jellyfin/Jellyseerr
 - Espace de documentation
 - Synchronisation avec Obsidian
+- Instances multi-langues pour films et séries!
