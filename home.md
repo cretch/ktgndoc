@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2024-04-25T18:57:52.534Z
+date: 2024-04-27T08:34:18.070Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T14:44:55.258Z
@@ -20,7 +20,7 @@ Please read the [changelog](/changelog) if you want to be updated on what's goin
 
 ## My services
 
-Yopu can request an access by writing to cretch84@gmail.com. For the moment, there is no unified authentification, so you may have to use differents passwords and suers on some of the services.
+You can request an access by writing to cretch84@gmail.com. For the moment, there is no unified authentification, so you may have to use differents passwords and suers on some of the services.
 
 I'll go around quite briefly, to avoid overwhelming you with information... 
 
