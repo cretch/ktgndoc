@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2024-04-27T08:35:33.678Z
+date: 2024-04-27T09:37:53.826Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T14:44:55.258Z
@@ -17,6 +17,19 @@ Hello! Welcome on my documentation!
 You'll find some technical notes but also some tutorials about the usage of my services
 
 Please read the [changelog](/changelog) if you want to be updated on what's going on, what is broken, etc.. 
+
+> - Please read toroughly the documentation first.
+> - If there is an issue with any content that's been downloaded already, or wish some differrent version, report it through [Jellyseerr](/jellyseerr).
+> - If you can't login, wish an account, can't find a content in the request system, or have any issue not covered on this website, please contact me, per mail if possible, or personal means.
+> - Try to be as clear as possible, take screenshots, etc...
+{.is-danger}
+
+
+
+
+
+## Report an issue
+
 
 ## My services
 
