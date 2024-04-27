@@ -2,7 +2,7 @@
 title: Jellyfin
 description: 
 published: true
-date: 2024-04-27T09:00:44.661Z
+date: 2024-04-27T09:05:28.949Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:33.113Z
@@ -123,6 +123,17 @@ Here is my music, organized in different tabs. Easiest way to navigate here is b
 
 #### TV shows
 It's the same is in movies, except you'll have the seasons list on the first screen, then you can see the detailed episodes list. 
+
+### Content playback
+
+1. Change subtitles
+2. Change audio track
+3. Change playback speed, quality, format
+
+> Changing the format won't take away black bands **integrated inside** the file sadly.
+{.is-info}
+
+![playback.png](/jellyfin/playback.png){.align-center}
 
 
 
