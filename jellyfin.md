@@ -2,14 +2,14 @@
 title: Jellyfin
 description: 
 published: true
-date: 2024-04-25T19:04:15.832Z
+date: 2024-04-27T09:00:44.661Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:33.113Z
 ---
 
 # Jellyfin	
-Jellyfin is a mediacenetr, that you can access after you're received credentials from me (shared with [Jellyseerr](/jellyseerr) ).
+Jellyfin is a mediacenter, that you can access after you're received credentials from me (shared with [Jellyseerr](/jellyseerr) ).
 
 It's available through various means
 - On the web, by clicking [on this link](https://jellyfin.ktgn.net)
@@ -22,7 +22,7 @@ According to your TV specs, you may be able to "cast" the videos to your TV from
 
 ## Connexion
 
-Can't be simpler : just enter your username and password. Quick conenct is there for special hardware like you TV, or gaming console, on which you don't have a proper keyboard.
+Can't be simpler : just enter your username and password. Quick connect is there for special hardware like you TV, or gaming console, on which you don't have a proper keyboard.
 
 
 ![login.png](/jellyfin/login.png){.align-center}
@@ -37,67 +37,92 @@ Can't be simpler : just enter your username and password. Quick conenct is there
 
 ![accueil.png](/jellyfin/accueil.png){.align-center}
 
-### Options utilisateur
+### User settings
 
-Vous pourrez personnaliser ici votre expérience...  Normalement, vous ne devriez pas avoir besoin de changer quelque chose ici.
+here you can customize your user experience...  Normally, you shouldn't have anything to change here...
 
-- Profil  (pour changer de mot de passe)
-- Connexion rapide (à utiliser quand vous voudrez vous connecter par exemple sur une TV)
-- Affichage (pour modifier certaines options graphiques, la langue de l'interface, l'heure, etc...)
-- Accueil (pour personnaliser l'écran d'accueil, changer les ordres, supprimer certaines sections, etc...)
-- Lecture (pour changer les paramètres de qualité des vidéos, la langue favorite,. etc...)
-- Sous-titres (Préférences des sous-titres)
-- Contrôle (pour activer la navigation à la manette)
+- Profile  (to change password)
+- Quick Connect (to be used when you want to connect to a TV or a gaming console)
+- Display (To change certain graphical options, time, language of the interface, etc...)
+- Home (to change your homescreen, hide certain sections, etc...)
+- Playback (To change video quality, favored language when available, etc... )
+- Subtitles (Subtitle preferences)
+- Control (to activate joystick navigation)
 
-### Navigation principale
+### Main navigation
 
-> Attention, lorsque vous survolerez une vignette avec la souris, il y aura un bouton **Play** qui apparaitra.
-Cela lance la lecture directement. Si vous voulez voir la fiche d'un media, cliquez sur le titre en-dessous. 
+> Please note that when you hover your mouse over a thumbnail, a **Play** button will appear.
+This starts playback straight away. If you want to see a media file, click on the title below. 
 {.is-danger}
 
+The first line contains the libraries. You can scroll through them using the little arrow at the top right.
+Click on the thumbnail to see the details of the libraries.
 
-La première ligne contient les bibliothèques. Vous pouvez les faire défiler grâce à la petite flèche en haut à droite.
-Cliquez sur la vignette pour voir le détail des bibliothèques.
+I have added categories with only english/german/spanish content. The "movies" and "tvshows" categories wil contain mainly french stuff. 
 
-Les autres lignes vous permettent de voir les derniers médias entamés, puis dessous les ajouts récents.
+The other lines allow you to see the most recently started media, and then the recent additions below.
 
-#### Livres
-Dans Jellyfin, les livres sont classés par auteur. C'est assez basique, vous devez rentrer dans un auteur pour voir la liste de ses titres.
+#### Books
+In Jellyfin, books are classified by author. It's pretty basic, you need to enter an author to see a list of his or her titles.
 
 ![livre1.png](/jellyfin/livre1.png){.align-center}
 
-Si vous cliquez sur Play, le titre va se charger en mémoire, ce qui peut être sensiblement plus long pour les formats graphiques. La navigation entre les pages se fait au clavier, tout simplement. 
+If you click Play, the title will load into memory, which can take considerably longer for graphic formats. Navigating between pages is simply a matter of using the keyboard. 
 
-La coche est pour noter que vous avez déjà lu le leivre, le coeur vous permet de le mettre dans une liste de favoris.
+The check mark indicates that you have already read the book, and the heart allows you to add it to a list of favourites.
 
-Si vous cliquez sur le titre, vous entrerez sur la fiche du livre. Cela n'a d'intérêt que si vous souhaitez télécharger une copie locale (via la deuxième icône ⬇️)
+If you click on the title, you'll be taken to the book description. This is only useful if you want to download a local copy (via the second icon ⬇️).
 
 ![livre2.png](/jellyfin/livre2.png){.align-center}
 
 #### Movies
 
-L'interface est un peu plus touffue ici... Dans la navigation haute, il y a trois onglets importants :
+The interface is a little more cluttered here... In the top navigation, there are three important tabs:
 
-- Films, celui dans lequel vous vous trouvez de base
-- Suggestions, qui vous propose des films selon ce que vous avez déjà vus.
-- Genres, pour une classification selon le genre de films. Bon, c'est un classement très... créatif va-on dire. 
+- Films, the one you're basically in
+- Suggestions, which suggests films based on what you've already seen.
+- Genres, which classifies films according to genre. Well, it's a very... creative classification, you might say. 
 
-Sur la droite de l'écran, vous pouvez n'afficher que les films d'une certaine lettre. 
+On the right of the screen, you can display only films with a certain letter. 
 
 ![movies1.png](/jellyfin/movies1.png){.align-center}
 
-##### Filtres et tri
+When you click on a movie name, you'll land on movies details
 
-- Flèches, pour naviger entre les pages
-- Affichage, pour changer la présentation de la liste
-- Tri
-- Filtres
+1. To change between audio tracks, if available
+2. To change subtitles. I'll explain a bit below how to get new ones if there is one missing. 
+3. Play the movie
+4. Play a trailer
+5. Chekc to set the movie as already played
+6. Check to add the movie to your liked ones.
+7. Various options (see below)
+
+![moviedetails1.png](/jellyfin/moviedetails1.png){.align-center}
+
+##### Download movie offline and subtitles
+
+Here are two very useful options. You can download a movie to your device. Ideal when you plan a trip and want to download some movies beforehand. You can also seach for subtitles!
+
+![moviedetails2.png](/jellyfin/moviedetails2.png){.align-center}
+
+It's pretty simple. Just select a language, click search button and select one of the results. Favoring the most downloaded one usually yields the best results. 
+
+![subtitles.png](/jellyfin/subtitles.png){.align-center}
+
+##### Filters and sorting
+
+- Arrows, to navigate between pages
+- View, to change the presentation of the list
+- Sorting
+- Filtering
 
 ![movies2.png](/jellyfin/movies2.png){.align-center}
 
 #### Music
+Here is my music, organized in different tabs. Easiest way to navigate here is by artist, or genre, maybe. 
 
 #### TV shows
+It's the same is in movies, except you'll have the seasons list on the first screen, then you can see the detailed episodes list. 
 
 
 
