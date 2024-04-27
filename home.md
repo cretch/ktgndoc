@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2024-04-27T08:34:18.070Z
+date: 2024-04-27T08:34:48.630Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T14:44:55.258Z
@@ -25,7 +25,7 @@ You can request an access by writing to cretch84@gmail.com. For the moment, ther
 I'll go around quite briefly, to avoid overwhelming you with information... 
 
 ### Jellyfin + Jellyseerr
-[Jellyfin](https://jellyfin.ktgn.net/) is the app to watch movies and TH shows, read books and listen to music.
+[Jellyfin](https://jellyfin.ktgn.net/) is the app to watch movies and TV shows, read books and listen to music.
 
 📖 Documentation can be found [here](/jellyfin)
 
