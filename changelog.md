@@ -2,7 +2,7 @@
 title: Changelog
 description: 
 published: true
-date: 2024-04-25T17:35:56.986Z
+date: 2024-05-07T13:19:49.993Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:12.312Z
@@ -17,6 +17,7 @@ dateCreated: 2024-04-14T15:04:12.312Z
 ## Maybe.. in the future, or not
 - Unified authentification
 - ~~Hardware transcoding~~ Needs dedicated GPU
+- Migrating hosting to the server
 ## Notes de version
 
 ### 1.0 alpha - xx april 2024
