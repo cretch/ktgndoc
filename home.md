@@ -24,10 +24,6 @@ Please read the [changelog](/changelog) if you want to be updated on what's goin
 > - Try to be as clear as possible, take screenshots, etc...
 {.is-danger}
 
-
-
-
-
 ## Report an issue
 
 

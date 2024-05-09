@@ -24,7 +24,6 @@ According to your TV specs, you may be able to "cast" the videos to your TV from
 
 Can't be simpler : just enter your username and password. Quick connect is there for special hardware like you TV, or gaming console, on which you don't have a proper keyboard.
 
-
 ![login.png](/jellyfin/login.png){.align-center}
 
 ## Home
