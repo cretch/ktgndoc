@@ -2,7 +2,7 @@
 title: Changelog
 description: 
 published: true
-date: 2024-05-11T09:56:42.242Z
+date: 2024-05-11T11:20:06.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:12.312Z
@@ -13,6 +13,7 @@ dateCreated: 2024-04-14T15:04:12.312Z
 ## In progress
 - Write the documentation
 - Backup to USB
+- Subtitles download
 
 ## Maybe.. in the future, or not
 - Unified authentification
