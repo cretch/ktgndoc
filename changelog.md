@@ -2,7 +2,7 @@
 title: Changelog
 description: 
 published: true
-date: 2024-05-07T13:20:09.770Z
+date: 2024-05-11T09:56:42.242Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:12.312Z
@@ -16,7 +16,6 @@ dateCreated: 2024-04-14T15:04:12.312Z
 
 ## Maybe.. in the future, or not
 - Unified authentification
-- ~~Hardware transcoding~~ Needs dedicated GPU
 - Migrating hosting to the server
 ## Notes de version
 
@@ -27,3 +26,4 @@ dateCreated: 2024-04-14T15:04:12.312Z
 - Sync with Obsidian for notes
 - You can request content in french, german, spanish or english/original
 - Notifications on Telegram
+- Hardware transcoding
