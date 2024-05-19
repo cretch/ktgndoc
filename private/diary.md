@@ -12,5 +12,3 @@ dateCreated: 2024-04-14T15:50:58.768Z
 Your content here
 
 
-![](attachments/Pasted%20image%2020240519115622.png)
-
