@@ -11,3 +11,5 @@ dateCreated: 2024-04-14T15:50:58.768Z
 # Header
 Your content here
 
+![](ktgndoc/private/attachments/Pasted%20image%2020240519114136.png)
+
