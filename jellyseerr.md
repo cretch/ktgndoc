@@ -2,7 +2,7 @@
 title: Jellyseerr
 description: 
 published: true
-date: 2024-04-27T09:29:08.522Z
+date: 2024-05-19T10:40:18.137Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T15:04:57.700Z

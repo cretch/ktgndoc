@@ -1,52 +1,41 @@
 ---
-title: Welcome
+title: Bienvenue
 description: 
 published: true
-date: 2024-04-27T09:37:53.826Z
+date: 2024-05-19T10:40:20.176Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-14T14:44:55.258Z
 ---
 
 # Welcome on Katagena Networks
-> Sorry for non-english speakers, the documentation is in english. Maybe in the future I try to find a nice way to translate... In the meanwhile, I'd suggest that you translate it manually via [Deepl](https://www.deepl.com/translator)
+> Sorry for non-french speakers, most of the documentation is in french. Maybe in the future I try to find a nice way to translate... In the meanwhile, I'd suggest that you translate it manually via [Deepl](https://www.deepl.com/translator)
 {.is-warning}
 
-Hello! Welcome on my documentation!
+Bonjour! Soyez les bienvenus sur ma documentation.
 
-You'll find some technical notes but also some tutorials about the usage of my services
+Vous y trouverez, à terme, des notes techniques mais également des explications sur les différents services proposés et la [liste des changements](/changelog). 
 
-Please read the [changelog](/changelog) if you want to be updated on what's going on, what is broken, etc.. 
+## Mes services
 
-> - Please read toroughly the documentation first.
-> - If there is an issue with any content that's been downloaded already, or wish some differrent version, report it through [Jellyseerr](/jellyseerr).
-> - If you can't login, wish an account, can't find a content in the request system, or have any issue not covered on this website, please contact me, per mail if possible, or personal means.
-> - Try to be as clear as possible, take screenshots, etc...
-{.is-danger}
+Vous pouvez obtenir un accès en m'envoyant un petit mail à cretch84@gmail.com. Pour le moment, il n'y a pas d'identifiant unifié pour tous les services, alors vous devrez peut-être jongler entre plusieurs identifiants malheureusement.
 
-## Report an issue
-
-
-## My services
-
-You can request an access by writing to cretch84@gmail.com. For the moment, there is no unified authentification, so you may have to use differents passwords and suers on some of the services.
-
-I'll go around quite briefly, to avoid overwhelming you with information... 
+Je ne détaille volontairement pas tous les éléments, pour garder la documentaiton simple.
 
 ### Jellyfin + Jellyseerr
-[Jellyfin](https://jellyfin.ktgn.net/) is the app to watch movies and TV shows, read books and listen to music.
+[Jellyfin](https://jellyfin.ktgn.net/) est l'application permettant de visionner films, séries, livres et musique.
 
-📖 Documentation can be found [here](/jellyfin)
+📖 La documentation se trouve [ici](/jellyfin)
 
-[Jellyseerr](/https://jellyseerr.ktgn.net/) allows you to request for new movies and tv shows.
+[Jellyseerr](/https://jellyseerr.ktgn.net/) permet de faire des demandes de nouveaux films et séries, un téléchargement automatique se lancera alors.
 
-📖 Documentation can be found [here](/jellyseerr)
+📖 La documentation est [ici](/jellyseerr)
 
-
+Mon système est normalement programmé pour favoriser les films en double audio (français + anglais) puis français, puis anglais/original ainsi qu'un téléchargement automatisé des sous-titres, si disponibles, en français, anglais, allemand, espagnol. Il se peut que cela ne fonctionne pas de manière optimale, qu'il y ait des problèmes de qualité, etc.. N'hésitez donc pas à me les remonter directement svp. 
 
 ### Calibre
-[Calibre](/https://books.ktgn.net/) An online book library. Explanations coming
+[Calibre](/https://books.ktgn.net/) est une application spécialisée dans la lecture de livres, comics, BD,. etc.. Jellyfin fait très bien le boulot mais ne permet pas un tri très étoffé... 
 
 
 ### Hosting
-My hosting services are done on another server located in Germany. Further details coming...
+Pour le moment, l'hébergement de sites Internet (excepté ktgn.net) se fait sur un serveur externe, situé en Allemagne.
