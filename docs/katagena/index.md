@@ -20,11 +20,11 @@ I'll go around quite briefly, to avoid overwhelming you with information...
 ### Jellyfin + Jellyseerr
 [Jellyfin](https://jellyfin.ktgn.net/) is the app to watch movies and TV shows, read books and listen to music.
 
-📖 Documentation can be found [here](/jellyfin)
+📖 Documentation can be found [here](jellyfin)
 
 [Jellyseerr](/https://jellyseerr.ktgn.net/) allows you to request for new movies and tv shows.
 
-📖 Documentation can be found [here](/jellyseerr)
+📖 Documentation can be found [here](jellyseerr)
 
 ### Calibre
 [Calibre](/https://books.ktgn.net/) An online book library. Explanations coming
