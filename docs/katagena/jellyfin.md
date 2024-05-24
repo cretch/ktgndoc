@@ -8,13 +8,12 @@ It's available through various means
 According to your TV specs, you may be able to "cast" the videos to your TV from your phone. 
 
 > This documentation is taking the web version as example. On other means, it should be quite the same.
-{.is-info}
 
 ## Connexion
 
 Can't be simpler : just enter your username and password. Quick connect is there for special hardware like you TV, or gaming console, on which you don't have a proper keyboard.
 
-![login.png](attachments/login.png){.align-center}
+![login.png](attachments/login.png)
 
 ## Home
 
@@ -24,8 +23,7 @@ Can't be simpler : just enter your username and password. Quick connect is there
 4. User settings
 5. Main part
 
-![accueil.png](attachments/accueil.png){.align-center}
-
+![accueil.png](attachments/accueil.png)
 ### User settings
 
 here you can customize your user experience...  Normally, you shouldn't have anything to change here...
@@ -42,7 +40,6 @@ here you can customize your user experience...  Normally, you shouldn't have any
 
 > Please note that when you hover your mouse over a thumbnail, a **Play** button will appear.
 This starts playback straight away. If you want to see a media file, click on the title below. 
-{.is-danger}
 
 The first line contains the libraries. You can scroll through them using the little arrow at the top right.
 Click on the thumbnail to see the details of the libraries.
@@ -54,7 +51,7 @@ The other lines allow you to see the most recently started media, and then the r
 #### Books
 In Jellyfin, books are classified by author. It's pretty basic, you need to enter an author to see a list of his or her titles.
 
-![livre1.png](attachments/livre1.png){.align-center}
+![livre1.png](attachments/livre1.png)
 
 If you click Play, the title will load into memory, which can take considerably longer for graphic formats. Navigating between pages is simply a matter of using the keyboard. 
 
@@ -62,8 +59,7 @@ The check mark indicates that you have already read the book, and the heart allo
 
 If you click on the title, you'll be taken to the book description. This is only useful if you want to download a local copy (via the second icon ⬇️).
 
-![livre2.png](attachments/livre2.png){.align-center}
-
+![livre2.png](attachments/livre2.png)
 #### Movies
 
 The interface is a little more cluttered here... In the top navigation, there are three important tabs:
@@ -74,7 +70,7 @@ The interface is a little more cluttered here... In the top navigation, there ar
 
 On the right of the screen, you can display only films with a certain letter. 
 
-![movies1.png](attachments/movies1.png){.align-center}
+![movies1.png](attachments/movies1.png)
 
 When you click on a movie name, you'll land on movies details
 
@@ -86,17 +82,17 @@ When you click on a movie name, you'll land on movies details
 6. Check to add the movie to your liked ones.
 7. Various options (see below)
 
-![moviedetails1.png](attachments/moviedetails1.png){.align-center}
+![moviedetails1.png](attachments/moviedetails1.png)
 
 ##### Download movie offline and subtitles
 
 Here are two very useful options. You can download a movie to your device. Ideal when you plan a trip and want to download some movies beforehand. You can also seach for subtitles!
 
-![moviedetails2.png](attachments/moviedetails2.png){.align-center}
+![moviedetails2.png](attachments/moviedetails2.png)
 
 It's pretty simple. Just select a language, click search button and select one of the results. Favoring the most downloaded one usually yields the best results. 
 
-![subtitles.png](attachments/subtitles.png){.align-center}
+![subtitles.png](attachments/subtitles.png)
 
 ##### Filters and sorting
 
@@ -105,7 +101,7 @@ It's pretty simple. Just select a language, click search button and select one o
 - Sorting
 - Filtering
 
-![movies2.png](attachments/movies2.png){.align-center}
+![movies2.png](attachments/movies2.png)
 
 #### Music
 Here is my music, organized in different tabs. Easiest way to navigate here is by artist, or genre, maybe. 
@@ -120,9 +116,8 @@ It's the same is in movies, except you'll have the seasons list on the first scr
 3. Change playback speed, quality, format
 
 > Changing the format won't take away black bands **integrated inside** the file sadly.
-{.is-info}
 
-![playback.png](attachments/playback.png){.align-center}
 
+![playback.png](attachments/playback.png)
 
 
