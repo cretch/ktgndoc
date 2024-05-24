@@ -1,13 +1,3 @@
----
-title: Jellyfin
-description: 
-published: true
-date: 2024-04-27T09:05:28.949Z
-tags: 
-editor: markdown
-dateCreated: 2024-04-14T15:04:33.113Z
----
-
 # Jellyfin	
 Jellyfin is a mediacenter, that you can access after you're received credentials from me (shared with [Jellyseerr](/jellyseerr) ).
 
