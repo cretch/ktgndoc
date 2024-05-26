@@ -27,7 +27,7 @@ I'll go around quite briefly, to avoid overwhelming you with information...
 📖 Documentation can be found [here](jellyseerr)
 
 ### Calibre
-[Calibre](/https://books.ktgn.net/) An online book library. Explanations coming
+[Calibre](https://books.ktgn.net/) An online book library. Explanations coming
 
 ### Hosting
 My hosting services are done on another server located in Germany. Further details coming...
