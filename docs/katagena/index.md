@@ -13,7 +13,7 @@ Please read the [changelog](/changelog) if you want to be updated on what's goin
 
 ## My services
 
-You can request an access by writing to cretch84@gmail.com. For the moment, there is no unified authentification, so you may have to use differents passwords and suers on some of the services.
+You can request an access by writing to cretch84@gmail.com. For the moment, there is no unified authentification, so you may have to use differents passwords and users on some of the services.
 
 I'll go around quite briefly, to avoid overwhelming you with information... 
 

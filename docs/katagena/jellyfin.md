@@ -1,5 +1,5 @@
 # Jellyfin	
-Jellyfin is a mediacenter, that you can access after you're received credentials from me (shared with [Jellyseerr](/jellyseerr) ).
+Jellyfin is a mediacenter that you can access after you're received credentials from me (shared with [Jellyseerr](/jellyseerr) ).
 
 It's available through various means
 - On the web, by clicking [on this link](https://jellyfin.ktgn.net)
