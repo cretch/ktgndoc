@@ -1,7 +1,7 @@
 # Welcome on Katagena Networks
 > Sorry for non-english speakers, the documentation is in english. Maybe in the future I try to find a nice way to translate... In the meanwhile, I'd suggest that you translate it manually via [Deepl](https://www.deepl.com/translator)
 
-Please read the [changelog](/changelog) if you want to be updated on what's going on, what is broken, etc.. 
+Please read the [changelog](changelog) if you want to be updated on what's going on, what is broken, etc.. 
 
 > - Please read toroughly the documentation first.
 > - If there is an issue with any content that's been downloaded already, or wish some differrent version, report it through [Jellyseerr](/jellyseerr).
