@@ -3,12 +3,12 @@
 ## In progress
 - Write the documentation
 - Backup to USB
+- Nextcloud instance
+
 
 ## Maybe.. in the future, or not
-- Unified authentification
 - Migrating hosting to the server
-- Nextcloud instance
-- Photo sharing
+- Unified authentification
 - Forum
 ## Notes de version
 
