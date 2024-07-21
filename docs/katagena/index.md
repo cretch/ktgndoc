@@ -31,3 +31,10 @@ I'll go around quite briefly, to avoid overwhelming you with information...
 
 ### Hosting
 My hosting services are done on another server located in Germany. Further details coming...
+
+### Minecraft
+I'm currently trying to setup a Minecraft server on my system. 
+More information here : [🏗️ Minecraft](katagena/🏗️%20Minecraft.md)
+
+### Nextcloud
+More information here: [🏗️ Nextcloud](🏗️%20Nextcloud.md)
