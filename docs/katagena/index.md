@@ -34,7 +34,7 @@ My hosting services are done on another server located in Germany. Further detai
 
 ### Minecraft
 I'm currently trying to setup a Minecraft server on my system. 
-More information here : [🏗️ Minecraft](katagena/🏗️%20Minecraft.md)
+More information here : [Minecraft](Minecraft.md)
 
 ### Nextcloud
-More information here: [🏗️ Nextcloud](🏗️%20Nextcloud.md)
+More information here: [Nextcloud](Nextcloud.md)
